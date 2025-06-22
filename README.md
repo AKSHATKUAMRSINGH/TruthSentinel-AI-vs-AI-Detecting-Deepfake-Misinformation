@@ -1,4 +1,5 @@
-TruthSentinel: AI vs AI — Detecting Deepfake & Misinformation 🛡️
+#TruthSentinel: AI vs AI — Detecting Deepfake & Misinformation 🛡️
+
 An AI-powered, modular web application designed to detect deepfake content and misinformation in text, with future-ready support for image, video, and audio detection.
 
 📌 Project Overview
