@@ -23,7 +23,7 @@ Placeholder message — real model to be integrated later.
 
 🎨 Custom Streamlit UI Enhancements
 
-Project title, Indian flag favicon 🇮🇳, head banner.
+Project title, Indian flag favicon 🇮🇳, head banner indicating cybersecurity.
 
 Light theme with personalized color palette.
 
