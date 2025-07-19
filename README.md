@@ -6,7 +6,7 @@ An AI-powered, modular web application designed to detect deepfake content and m
 📌 Project Overview
 TruthSentinel is a scalable AI tool to help combat misinformation and AI-generated deepfakes. Built with Python and Streamlit, the app currently detects fake or misleading text content with a confidence score and clean, interactive UI.
 
-✅ Current Features (June 2025)
+✅ Current Features
 🔍 Text-Based Misinformation Detection
 
 Analyze user-input text for legitimacy.
